@@ -1,0 +1,14 @@
+
+.text_style{
+    color:  green;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 6px rgba(0,0,0.2);
+    margin-top: 50px;
+    transition: all 0.3s ease-in-out;
+}
+.text_style:hover {
+  color: #f59e0b;            
+  transform: scale(1.05);     
+}
